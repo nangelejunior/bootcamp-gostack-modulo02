@@ -1,2 +1,2 @@
 # bootcamp-gostack-modulo02
-Inciando back-end do GoBarber
+Dominando Node.js! - Inciando back-end do GoBarber
